@@ -1,0 +1,4 @@
+#to look at the jobs running in background
+bjobs
+bjobs -wq gui         #to look at the full name of the job
+
